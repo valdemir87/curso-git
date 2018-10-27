@@ -9,8 +9,6 @@ namespace Teste_Git {
         static void Main(string[] args)
         {
             Console.WriteLine("Ola mundo");
-            Console.WriteLine("Segundo commit");
-            Console.WriteLine("Commit final");
             Console.ReadLine();
         }
     }
