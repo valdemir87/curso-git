@@ -10,6 +10,7 @@ namespace Teste_Git {
         {
             Console.WriteLine("Ola mundo");
             Console.WriteLine("Segundo commit");
+            Console.WriteLine("Commit final");
             Console.ReadLine();
         }
     }
